@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">Passionate about Data Analysis & Software Engineering</h3>
 
-- 💬 Ask me about **Java, CRM tool: Salesforce**
+- 💬 Ask me about **Java, Salesforce**
 
 - 📫 How to reach me **kothapallisneha9903@gmail.com**
 
